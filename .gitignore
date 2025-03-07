@@ -124,3 +124,6 @@ nb-configuration.xml
 
 /results/
 /phpunit*.xml
+
+# migration file
+/app/Database/Migrations/20121031100472_admin.php
